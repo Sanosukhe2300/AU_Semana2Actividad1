@@ -1,6 +1,6 @@
 # AU_Semana2Actividad1
 
-# Predicción de Compra en Redes Sociales
+# Clasificación técnica mediante SVM y Árboles de Decisión
 
 ## 📌 Descripción del problema
 El objetivo de este proyecto es predecir si un usuario realizará una compra a partir de información demográfica básica obtenida de una red social. Este tipo de predicción es clave en estrategias de marketing digital, ya que permite optimizar campañas publicitarias y segmentar audiencias de forma eficiente.
